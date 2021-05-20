@@ -1,0 +1,5 @@
+rabbit_connection_string="amqp://guest:guest@104.214.233.102:5672/"
+node_id="1"
+workers_per_node=1
+node_type="r"
+grain_size=1000
